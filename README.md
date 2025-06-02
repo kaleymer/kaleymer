@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## I'm Kale Weimer and I work in embedded software development with a love for real-time systems, robotics, and mechatronics.  
+
+### Below are some of my projects, and more are being added in the near future once I organize and publish them. 
+
 <!--
 **kaleymer/kaleymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
